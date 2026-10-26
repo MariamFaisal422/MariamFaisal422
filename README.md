@@ -43,6 +43,7 @@
   <img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
 </p>
 
+
 <h3>⚙️ Development Tools</h3>
 
 <p align="left">
@@ -50,12 +51,10 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45" alt="Jupyter Notebook"/>
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
 </p>
+```
 
----
 
 <h2>🚀 What I'm Currently Working On</h2>
 
@@ -100,4 +99,4 @@
 <p align="center">
   💗 Learning, Growing & Turning Data into Insights 💗
 </p>
-```
+
